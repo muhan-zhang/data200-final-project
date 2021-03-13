@@ -1,0 +1,170 @@
+Number,Town,Designation,Dateestablished,Land area(square miles),Population(in 2010),Form ofgovernment,County,Council of Governments,Native Americanname
+1,Andover,Town,1848,15.46,"3,303",Town meeting,Tolland County,Capitol Region,
+2,Ansonia,City,1889,6.03,"19,249",Mayor-council,New Haven County,Naugatuck Valley,
+3,Ashford,Town,1714,38.79,"4,100",Town meeting,Windham County,Northeast CT,
+4,Avon,Town,1830,23.12,"18,098",Council-manager,Hartford County,Capitol Region,
+5,Barkhamsted,Town,1779,36.22,"3,620",Town meeting,Litchfield County,Northwest Hills,
+6,Beacon Falls,Town,1871,9.78,"6,049",Town meeting,New Haven County,Naugatuck Valley,
+7,Berlin,Town,1785,26.45,"19,866",Council-manager,Hartford County,Capitol Region,
+8,Bethany,Town,1832,20.97,"5,563",Town meeting,New Haven County,South Central,
+9,Bethel,Town,1855,16.79,"18,584",Town meeting,Fairfield County,Western CT,
+10,Bethlehem,Town,1787,19.36,"3,607",Town meeting,Litchfield County,Naugatuck Valley,
+11,Bloomfield,Town,1835,26.01,"20,486",Council-manager,Hartford County,Capitol Region,
+12,Bolton,Town,1720,14.41,"4,980",Town meeting,Tolland County,Capitol Region,
+13,Bozrah,Town,1786,19.97,"2,627",Town meeting,New London County,Southeastern CT,
+14,Branford,Town,1685,21.98,"28,026",Representative town meeting,New Haven County,South Central,Totoket
+15,Bridgeport,City,1821,16,"144,229",Mayor-council,Fairfield County,CT Metropolitan,Pequonock
+16,Bridgewater,Town,1856,16.23,"1,727",Town meeting,Litchfield County,Western CT,
+17,Bristol,City,1785,26.51,"60,477",Mayor-council,Hartford County,Naugatuck Valley,
+18,Brookfield,Town,1788,19.8,"16,452",Town meeting,Fairfield County,Western CT,
+19,Brooklyn,Town,1786,28.97,"8,210",Town meeting,Windham County,Northeast CT,
+20,Burlington,Town,1806,29.8,"9,301",Town meeting,Hartford County,Northwest Hills,
+21,Canaan,Town,1739,32.95,"1,234",Town meeting,Litchfield County,Northwest Hills,
+22,Canterbury,Town,1703,39.9,"5,132",Town meeting,Windham County,Northeast CT,Peagscomsueck
+23,Canton,Town,1806,24.57,"10,292",Town meeting,Hartford County,Capitol Region,
+24,Chaplin,Town,1822,19.43,"2,305",Town meeting,Windham County,Northeast CT,
+25,Cheshire,Town,1780,32.91,"29,261",Council-manager,New Haven County,Naugatuck Valley,
+26,Chester,Town,1836,16.03,"3,994",Town meeting,Middlesex County,Lower CT River,
+27,Clinton,Town,1838,16.28,"13,260",Town meeting,Middlesex County,Lower CT River,
+28,Colchester,Town,1698,49.06,"16,068",Town meeting,New London County,Southeastern CT,
+29,Colebrook,Town,1779,31.47,"1,485",Town meeting,Litchfield County,Northwest Hills,
+30,Columbia,Town,1804,21.36,"5,485",Town meeting,Tolland County,Capitol Region,
+31,Cornwall,Town,1740,46.01,"1,420",Town meeting,Litchfield County,Northwest Hills,
+32,Coventry,Town,1712,37.72,"12,435",Council-manager,Tolland County,Capitol Region,
+33,Cromwell,Town,1851,12.39,"14,005",Town meeting,Middlesex County,Lower CT River,
+34,Danbury,City,1687,42.11,"80,893",Mayor-council,Fairfield County,Western CT,Pahquioque
+35,Darien,Town,1820,12.86,"20,732",Representative town meeting,Fairfield County,Western CT,
+36,Deep River,Town,1635,13.55,"4,629",Town meeting,Middlesex County,Lower CT River,Pattaquasset
+37,Derby,City,1675,4.98,"12,902",Mayor-council,New Haven County,Naugatuck Valley,Paugasset
+38,Durham,Town,1708,23.6,"7,388",Town meeting,Middlesex County,Lower CT River,Coginchaug
+39,East Granby,Town,1858,17.48,"5,148",Town meeting,Hartford County,Capitol Region,
+40,East Haddam,Town,1734,54.33,"9,126",Town meeting,Middlesex County,Lower CT River,Macki-moodus
+41,East Hampton,Town,1767,35.59,"12,959",Council-manager,Middlesex County,Lower CT River,
+42,East Hartford,Town,1783,18.02,"51,252",Mayor-council,Hartford County,Capitol Region,Podunk[1]
+43,East Haven,Town,1785,12.26,"29,257",Mayor-council,New Haven County,South Central,
+44,East Lyme,Town,1839,34.03,"19,159",Town meeting,New London County,Southeastern CT,
+45,East Windsor,Town,1768,26.29,"11,162",Town meeting,Hartford County,Capitol Region,
+46,Eastford,Town,1847,28.89,"1,749",Town meeting,Windham County,Northeast CT,
+47,Easton,Town,1845,27.42,"7,490",Town meeting,Fairfield County,CT Metropolitan,
+48,Ellington,Town,1786,34.05,"15,602",Town meeting,Tolland County,Capitol Region,
+49,Enfield,Town,1683,33.38,"44,654",Council-manager,Hartford County,Capitol Region,
+50,Essex,Town,1852,10.36,"6,683",Town meeting,Middlesex County,Lower CT River,Patapoug
+51,Fairfield,Town,1666,30.03,"59,404",Representative town meeting,Fairfield County,CT Metropolitan,Uncoway
+52,Farmington,Town,1645,28.06,"25,340",Council-manager,Hartford County,Capitol Region,
+53,Franklin,Town,1786,19.51,"1,922",Town meeting,New London County,Southeastern CT,
+54,Glastonbury,Town,1690,51.37,"34,427",Council-manager,Hartford County,Capitol Region,
+55,Goshen,Town,1739,43.66,"2,976",Town meeting,Litchfield County,Northwest Hills,
+56,Granby,Town,1786,40.69,"11,282",Council-manager,Hartford County,Capitol Region,
+57,Greenwich,Town,1665,47.83,"61,171",Representative town meeting,Fairfield County,Western CT,Patuquapaen
+58,Griswold,Town,1815,34.95,"11,951",Town meeting,New London County,Southeastern CT,
+59,Groton,Town,1705,31.3,"40,115",Representative town meeting,New London County,Southeastern CT,
+60,Guilford,Town,1639,47.05,"22,375",Town meeting,New Haven County,South Central,Menunkatuck
+61,Haddam,Town,1662,44.03,"8,346",Town meeting,Middlesex County,Lower CT River,
+62,Hamden,Town,1786,32.78,"60,960",Mayor-council,New Haven County,South Central,
+63,Hampton,Town,1786,25,"1,863",Town meeting,Windham County,Northeast CT,
+64,Hartford,City,1635,17.31,"124,775",Mayor-council,Hartford County,Capitol Region,Suckiag
+65,Hartland,Town,1761,33.03,"2,114",Town meeting,Hartford County,Northwest Hills,
+66,Harwinton,Town,1737,30.75,"5,642",Town meeting,Litchfield County,Northwest Hills,
+67,Hebron,Town,1708,36.9,"9,686",Town meeting,Tolland County,Capitol Region,
+68,Kent,Town,1739,48.47,"2,979",Town meeting,Litchfield County,Northwest Hills,Scatacook
+69,Killingly,Town,1708,48.52,"17,370",Council-manager,Windham County,Northeast CT,Aspinock
+70,Killingworth,Town,1667,35.33,"6,525",Town meeting,Middlesex County,Lower CT River,Hammonasset
+71,Lebanon,Town,1700,54.11,"7,308",Town meeting,New London County,Southeastern CT,
+72,Ledyard,Town,1836,38.14,"15,051",Mayor-council,New London County,Southeastern CT,
+73,Lisbon,Town,1786,16.26,"4,338",Town meeting,New London County,Southeastern CT,
+74,Litchfield,Town,1719,56.06,"8,466",Town meeting,Litchfield County,Northwest Hills,Bantam
+75,Lyme,Town,1667,31.85,"2,406",Town meeting,New London County,Lower CT River,
+76,Madison,Town,1826,36.2,"18,269",Town meeting,New Haven County,South Central,
+77,Manchester,Town,1823,27.26,"58,241",Council-manager,Hartford County,Capitol Region,
+78,Mansfield,Town,1702,44.46,"26,543",Council-manager,Tolland County,Capitol Region,Noubesetuck
+79,Marlborough,Town,1803,23.28,"6,404",Town meeting,Hartford County,Capitol Region,
+80,Meriden,City,1806,23.75,"60,868",Council-manager,New Haven County,South Central,
+81,Middlebury,Town,1807,17.75,"7,575",Town meeting,New Haven County,Naugatuck Valley,
+82,Middlefield,Town,1866,12.7,"4,425",Town meeting,Middlesex County,Lower CT River,
+83,Middletown,City,1651,40.9,"47,648",Mayor-council,Middlesex County,Lower CT River,Mattabeset
+84,Milford,City,1639,22.56,"52,759",Mayor-council,New Haven County,South Central,Wepawaug
+85,Monroe,Town,1823,26.13,"19,479",Town meeting,Fairfield County,CT Metropolitan,
+86,Montville,Town,1786,42.02,"19,571",Mayor-council,New London County,Southeastern CT,
+87,Morris,Town,1859,17.19,"2,388",Town meeting,Litchfield County,Northwest Hills,
+88,Naugatuck,Borough,1844,16.39,"31,862",Mayor-council,New Haven County,Naugatuck Valley,
+89,New Britain,City,1850,13.34,"73,206",Mayor-council,Hartford County,Capitol Region,
+90,New Canaan,Town,1801,22.13,"19,738",Mayor-council,Fairfield County,Western CT,
+91,New Fairfield,Town,1740,20.46,"13,881",Town meeting,Fairfield County,Western CT,
+92,New Hartford,Town,1738,37.03,"6,970",Town meeting,Litchfield County,Northwest Hills,
+93,New Haven,City,1638,18.85,"129,779",Mayor-council,New Haven County,South Central,Quinnipiac
+94,New London,City,1646,5.54,"27,620",Mayor-council,New London County,Southeastern CT,Nameaug
+95,New Milford,Town,1712,61.59,"28,142",Mayor-council,Litchfield County,Western CT,Weantinogue
+96,Newington,Town,1871,13.18,"30,562",Council-manager,Hartford County,Capitol Region,
+97,Newtown,Town,1711,57.76,"27,560",Town meeting,Fairfield County,Western CT,Quonapague
+98,Norfolk,Town,1758,45.31,"1,709",Town meeting,Litchfield County,Northwest Hills,
+99,North Branford,Town,1831,24.92,"14,407",Council-manager,New Haven County,South Central,
+100,North Canaan,Town,1858,19.45,"3,315",Town meeting,Litchfield County,Northwest Hills,
+101,North Haven,Town,1786,20.77,"24,093",Town meeting,New Haven County,South Central,
+102,North Stonington,Town,1807,54.31,"5,297",Town meeting,New London County,Southeastern CT,
+103,Norwalk,City,1651,22.81,"85,603",Mayor-council,Fairfield County,Western CT,Naramauke
+104,Norwich,City,1662,28.33,"40,493",Council-manager,New London County,Southeastern CT,Mohegan
+105,Old Lyme,Town,1855,23.1,"7,603",Town meeting,New London County,Lower CT River,
+106,Old Saybrook,Town,1854,15.04,"10,242",Town meeting,Middlesex County,Lower CT River,
+107,Orange,Town,1822,17.19,"13,956",Town meeting,New Haven County,South Central,
+108,Oxford,Town,1798,32.89,"12,683",Town meeting,New Haven County,Naugatuck Valley,
+109,Plainfield,Town,1699,42.27,"15,405",Town meeting,Windham County,Northeast CT,
+110,Plainville,Town,1869,9.76,"17,716",Council-manager,Hartford County,Capitol Region,
+111,Plymouth,Town,1795,21.72,"12,243",Mayor-council,Litchfield County,Naugatuck Valley,
+112,Pomfret,Town,1713,40.3,"4,247",Town meeting,Windham County,Northeast CT,Mashamoquet
+113,Portland,Town,1841,23.4,"9,508",Town meeting,Middlesex County,Lower CT River,
+114,Preston,Town,1687,30.9,"4,726",Town meeting,New London County,Southeastern CT,
+115,Prospect,Town,1827,14.32,"9,405",Mayor-council,New Haven County,Naugatuck Valley,
+116,Putnam,Town,1855,20.29,"9,584",Town meeting,Windham County,Northeast CT,Quinebaug
+117,Redding,Town,1767,31.5,"9,158",Town meeting,Fairfield County,Western CT,
+118,Ridgefield,Town,1709,34.43,"24,638",Town meeting,Fairfield County,Western CT,Caudatowa
+119,Rocky Hill,Town,1843,13.45,"19,709",Representative town meeting,Hartford County,Capitol Region,
+120,Roxbury,Town,1796,26.23,"2,262",Town meeting,Litchfield County,Northwest Hills,Shepaug
+121,Salem,Town,1819,28.95,"4,151",Town meeting,New London County,Southeastern CT,
+122,Salisbury,Town,1741,57.32,"3,741",Town meeting,Litchfield County,Northwest Hills,Weatogue
+123,Scotland,Town,1857,18.61,"1,726",Town meeting,Windham County,Northeast CT,
+124,Seymour,Town,1850,14.57,"16,540",Town meeting,New Haven County,Naugatuck Valley,Naugatuck
+125,Sharon,Town,1739,58.7,"2,782",Town meeting,Litchfield County,Northwest Hills,
+126,Shelton,City,1789,30.57,"39,559",Mayor-council,Fairfield County,Naugatuck Valley,Quorum
+127,Sherman,Town,1802,21.8,"3,581",Town meeting,Fairfield County,Western CT,
+128,Simsbury,Town,1670,33.88,"23,511",Town meeting,Hartford County,Capitol Region,
+129,Somers,Town,1734,28.34,"11,444",Town meeting,Tolland County,Capitol Region,
+130,South Windsor,Town,1845,27.96,"25,709",Council-manager,Hartford County,Capitol Region,
+131,Southbury,Town,1787,39.06,"19,904",Town meeting,New Haven County,Naugatuck Valley,
+132,Southington,Town,1779,35.99,"43,069",Council-manager,Hartford County,Capitol Region,
+133,Sprague,Town,1861,13.21,"2,984",Town meeting,New London County,Southeastern CT,
+134,Stafford,Town,1719,57.96,"12,087",Town meeting,Tolland County,Capitol Region,
+135,Stamford,City,1641,37.75,"122,643",Mayor-council,Fairfield County,Western CT,Rippowam
+136,Sterling,Town,1794,27.23,"3,830",Town meeting,Windham County,Northeast CT,
+137,Stonington,Town,1662,38.69,"18,545",Town meeting,New London County,Southeastern CT,"Pawcatuck, Mistack"
+138,Stratford,Town,1639,17.59,"51,384",Mayor-council,Fairfield County,CT Metropolitan,Cupheag
+139,Suffield,Town,1674,42.21,"15,735",Town meeting,Hartford County,Capitol Region,
+140,Thomaston,Town,1875,12.01,"7,887",Town meeting,Litchfield County,Naugatuck Valley,
+141,Thompson,Town,1785,46.94,"9,458",Town meeting,Windham County,Northeast CT,
+142,Tolland,Town,1715,39.71,"15,052",Council-manager,Tolland County,Capitol Region,
+143,Torrington,City,1740,39.79,"36,383",Mayor-council,Litchfield County,Northwest Hills,
+144,Trumbull,Town,1797,23.29,"36,018",Mayor-council,Fairfield County,CT Metropolitan,
+145,Union,Town,1734,28.71,854,Town meeting,Tolland County,Northeast CT,
+146,Vernon,Town,1808,17.73,"29,179",Mayor-council,Tolland County,Capitol Region,
+147,Voluntown,Town,1721,38.92,"2,603",Town meeting,New London County,Northeast CT,
+148,Wallingford,Town,1670,39.02,"45,135",Mayor-council,New Haven County,South Central,Quinnipiac
+149,Warren,Town,1786,26.31,"1,461",Town meeting,Litchfield County,Northwest Hills,
+150,Washington,Town,1779,38.19,"3,578",Town meeting,Litchfield County,Northwest Hills,
+151,Waterbury,City,1686,28.57,"110,366",Mayor-council,New Haven County,Naugatuck Valley,Mattatuck
+152,Waterford,Town,1801,32.75,"19,517",Representative town meeting,New London County,Southeastern CT,
+153,Watertown,Town,1780,29.15,"22,514",Council-manager,Litchfield County,Naugatuck Valley,
+154,West Hartford,Town,1854,21.98,"63,268",Council-manager,Hartford County,Capitol Region,
+155,West Haven,City,1921,10.84,"55,564",Mayor-council,New Haven County,South Central,
+156,Westbrook,Town,1840,15.72,"6,938",Town meeting,Middlesex County,Lower CT River,Pochaug
+157,Weston,Town,1787,19.8,"10,179",Town meeting,Fairfield County,Western CT,Aspetuck
+158,Westport,Town,1835,20.01,"26,391",Representative town meeting,Fairfield County,Western CT,Saugatuck
+159,Wethersfield,Town,1634,12.39,"26,668",Council-manager,Hartford County,Capitol Region,Pyquag
+160,Willington,Town,1727,33.27,"6,041",Town meeting,Tolland County,Capitol Region,
+161,Wilton,Town,1802,26.95,"18,062",Town meeting,Fairfield County,Western CT,
+162,Winchester,Town,1771,32.28,"11,242",Council-manager,Litchfield County,Northwest Hills,
+163,Windham,Town,1692,27.07,"25,268",Town meeting,Windham County,Southeastern CT,
+164,Windsor,Town,1633,29.63,"29,044",Council-manager,Hartford County,Capitol Region,
+165,Windsor Locks,Town,1854,9.03,"12,498",Town meeting,Hartford County,Capitol Region,
+166,Wolcott,Town,1796,20.43,"16,680",Mayor-council,New Haven County,Naugatuck Valley,
+167,Woodbridge,Town,1784,18.83,"8,990",Town meeting,New Haven County,South Central,
+168,Woodbury,Town,1673,36.47,"9,975",Town meeting,Litchfield County,Naugatuck Valley,Pomperaug
+169,Woodstock,Town,1686,60.54,"7,964",Town meeting,Windham County,Northeast CT,
